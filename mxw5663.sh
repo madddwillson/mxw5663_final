@@ -2,7 +2,7 @@
 
 
 # Load necessary modules
-module load Anaconda3
+module load Anaconda3/2020.11
 
 
 # Remove the existing Conda environment 
