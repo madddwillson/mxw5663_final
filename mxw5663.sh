@@ -1,5 +1,5 @@
 #!/bin/bash
-
+conda init
 
 # Load necessary modules
 module load Anaconda3/2020.11
